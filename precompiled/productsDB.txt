@@ -1,0 +1,4 @@
+400000000,tomato,12.99,seller@mail.com
+400000001,lettuce,12.99,seller@mail.com
+400000002,Nione,20.44,seller@mail.com
+400000004,dania,12.99,seller@mail.com

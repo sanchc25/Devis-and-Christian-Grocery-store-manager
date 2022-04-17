@@ -1,0 +1,3 @@
+Another,User,another@mail.com,3527462486824,1234567,0.0,Admin
+Seller,AmSelling,seller@mail.com,435475758,1234567,0.0,Seller
+buyer,ambuyer,buyer@mail.com,325364757,1234567,0.0,Buyer
